@@ -1,5 +1,7 @@
 ## Foster Rocko!
 
+[See photos of Rocko here!](./public/assets)
+
 We are a 30-something year old professional working couple living in San Francisco, CA raising a lovely dog.
 
 Recently, my partner has tragically become severely allergic to our puppy, Rocko, out of nowhere. We are seeking a prospective Foster parent for him for now, while we pursue allergy treatment and immunotherapy treatment (which will take 3-12 months+).
