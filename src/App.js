@@ -26,7 +26,7 @@ const logisticsItems = [
 ]
 
 const imageFileNames = [
-  'IMG_0315.jpg',
+  'IMG_0315.webp',
   'IMG_0530.jpg',
   'IMG_0533.jpg',
   'IMG_0540.jpg',
