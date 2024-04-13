@@ -1,7 +1,50 @@
 ## Foster Rocko!
 
-[See photos of Rocko here!](./public/assets)
+<img width="300" style="display: inline-block" src="./public/assets/rocko_0.webp" alt="image-description"/>
+<img width="300" style="display: inline-block" src="./public/assets/rocko_1.webp" alt="image-description"/>
+<img width="300" style="display: inline-block" src="./public/assets/rocko_2.jpg" alt="image-description"/>
 
+<details>
+  <summary><strong>Image 1 (expand)</strong></summary>
+  <img width="500" src="./public/assets/rocko_0.webp" alt="image-description"/>
+</details>
+<details>
+  <summary><strong>Image 2 (expand)</strong></summary>
+  <img width="500" src="./public/assets/rocko_1.webp" alt="image-description"/>
+</details>
+<details>
+  <summary><strong>Image 3 (expand)</strong></summary>
+  <img width="500" src="./public/assets/rocko_2.jpg" alt="image-description"/>
+</details>
+<details>
+  <summary><strong>Image 4 (expand)</strong></summary>
+  <img width="500" src="./public/assets/rocko_3.jpg" alt="image-description"/>
+</details>
+<details>
+  <summary><strong>Image 5 (expand)</strong></summary>
+  <img width="500" src="./public/assets/rocko_4.jpg" alt="image-description"/>
+</details>
+<details>
+  <summary><strong>Image 6 (expand)</strong></summary>
+  <img width="500" src="./public/assets/rocko_5.webp" alt="image-description"/>
+</details>
+<details>
+  <summary><strong>Image 7 (expand)</strong></summary>
+  <img width="500" src="./public/assets/rocko_6.webp" alt="image-description"/>
+</details>
+<details>
+  <summary><strong>Image 8 (expand)</strong></summary>
+  <img width="500" src="./public/assets/rocko_7.jpg" alt="image-description"/>
+</details>
+<details>
+  <summary><strong>Image 9 (expand)</strong></summary>
+  <img width="500" src="./public/assets/rocko_8.webp" alt="image-description"/>
+</details>
+<details>
+  <summary><strong>Image 10 (expand)</strong></summary>
+  <img width="500" src="./public/assets/rocko_9.webp" alt="image-description"/>
+</details>
+ 
 We are a 30-something year old professional working couple living in San Francisco, CA raising a lovely dog.
 
 Recently, my partner has tragically become severely allergic to our puppy, Rocko, out of nowhere. We are seeking a prospective Foster parent for him for now, while we pursue allergy treatment and immunotherapy treatment (which will take 3-12 months+).
