@@ -84,6 +84,9 @@ function App() {
       <p>
         If you are interested, please let me know about yourself, your home situation, dog raising experience, your interest, and potential routine with him, along with your general availability to foster him. Email me at <a href="mailto:foramyhua@gmail.com">foramyhua@gmail.com</a>. Thank you so much!
       </p>
+      <p>
+        ~ Amy
+      </p>
     </div>
   );
 }
