@@ -25,14 +25,16 @@ const logisticsItems = [
   'Location: He is currently in San Francisco, CA. We are open to the entire Bay Area and Northern California. We would like to pay him regular visits weekly or so (we can discuss).'
 ]
 
+const photoExtensions = ['webp', 'webp', 'jpg', 'jpg', 'jpg', 'webp', 'webp', 'jpg', 'webp', 'webp'];
+
 const Photos = () => {
   return (
     <Carousel className='carousel'>
       {
-        new Array(10).map((_, index) => {
+        photoExtensions.map((extension, index) => {
           return (
             <div key={index}>
-              <img alt='Rocko' src={`/assets/rocko_${index}`} />
+              <img alt='Rocko' src={`/assets/rocko_${index}.${extension}`} />
             </div>
           )
         })
