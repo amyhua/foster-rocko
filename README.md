@@ -71,7 +71,7 @@ We can give you all supplies and meals, and a general guidebook for him, too.
 - Dog: Rocko. Fully vaccinated and up to date on shots and neutered.
 - 10-month old puppy f1b Cavapoo (mother is a standard poodle, father is a King Charles Cavalier) from healthy parents.
 - No health or behaviorial issues whatsoever. His vet has said his health is remarkable.
-- Size: small medium. He is 22" tall, 22" wide, and 34.5 lbs.
+- Size: small medium. He is 22" tall, 27" wide, and 34.5 lbs.
 - Availability: ASAP.
 - Location: He is currently in San Francisco, CA. We are open to the entire Bay Area and Northern California. We would like to pay him regular visits weekly or so (we can discuss).
 
