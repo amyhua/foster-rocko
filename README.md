@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+## Foster Rocko!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+We are a 30-something year old professional working couple living in San Francisco, CA raising a lovely dog.
 
-## Available Scripts
+Recently, my partner has tragically become severely allergic to our puppy, Rocko, out of nowhere. We are seeking a prospective Foster parent for him for now, while we pursue allergy treatment and immunotherapy treatment (which will take 3-12 months+).
 
-In the project directory, you can run:
+Rocko is our loving, rather perfect 10-month old, neutered male puppy. His personality is that of a perfectly awesome dog. We describe him as very sociable, obedient, loves to play, loves everybody, and is a low maintenance dog. He has puppy energy, needs daily walks, is house trained (he can hold it for ~12 hours at a time and needs to go out only 2x/day), eats 2x/day, and loves to be by your side, play fetch, tug of war, watch TV with you, and nap at your feet while you work.
 
-### `npm start`
+Things about him:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- No anxiety dog -- he is a total chiller who loves everyone. He does not bark as others pass your entrance, at other aggressive dogs, etc. except to "howl along" with others.
+- He will often lay a toy at your feet and patiently wait for you throw it at your convenience.
+- He will lick everyone who comes through the door.
+- He LOVES wearing clothes and wants you to put clothes on him. Same with boots.
+- He does NOT shed at ALL.
+- He is easy to train (< 10 minutes).
+- He is socially intelligent and considerate.
+- He loves to meet and play with other dogs, too.
+- He was born with a heart of gold.
+- He is a nappy puppy who will wake you up around 7:30am-9am daily for food and a potty break.
+- We currently spoil him heavily.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+We can give you all supplies and meals, and a general guidebook for him, too.
 
-### `npm test`
+- Timeframe: about a few months, with potential to adopt permanently (TBD).
+- Dog: Rocko. Fully vaccinated and up to date on shots and neutered.
+- 10-month old puppy f1b Cavapoo (mother is a standard poodle, father is a King Charles Cavalier) from healthy parents.
+- No health or behaviorial issues whatsoever. His vet has said his health is remarkable.
+- Size: small medium. He is 22" tall, 22" wide, and 34.5 lbs.
+- Availability: ASAP.
+- Location: He is currently in San Francisco, CA. We are open to the entire Bay Area and Northern California. We would like to pay him regular visits weekly or so (we can discuss).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+If you are interested, please let me know about yourself, your home situation,
+dog raising experience, your interest, and potential routine with him, along
+with your general availability to foster him.
 
-### `npm run build`
+Contact me at foramyhua@gmail.com.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you so much!
